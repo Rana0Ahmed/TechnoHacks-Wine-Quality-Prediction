@@ -8,7 +8,7 @@ The Problem statement for this project is to predict the quality of the wine.
 ## Dataset
 This datasets is related to red variants of the Portuguese "Vinho Verde" wine.
 
-## This project includes:
+## This project includes
 - Import dependencies.
 - Import Dataset from csv file and take a quick look.
 - Data visualization with Correlation to gain some insights.
