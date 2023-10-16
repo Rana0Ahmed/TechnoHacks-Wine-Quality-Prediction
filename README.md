@@ -1,6 +1,6 @@
 # TechnoHacks-Wine-Quality-Prediction
 
-<img src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_745385_16818113242284860.jpg" width="500">
+<img src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_745385_16818113242284860.jpg" width="450">
 
 ## Problem statement
 The Problem statement for this project is to predict the quality of the wine.
